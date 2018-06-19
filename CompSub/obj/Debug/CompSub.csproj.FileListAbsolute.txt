@@ -1,0 +1,10 @@
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\CompSub.exe.config
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\CompSub.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\CompSub.pdb
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\WatiN.Core.dll
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\bin\Debug\WatiN.Core.xml
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\obj\Debug\CompSub.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\obj\Debug\CompSub.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\obj\Debug\CompSub.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\CompSub\CompSub\CompSub\obj\Debug\CompSub.pdb

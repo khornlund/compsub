@@ -1,0 +1,10 @@
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\WatiN.exe.config
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\WatiN.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\WatiN.pdb
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\WatiN.Core.dll
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\WatiN.Core.xml
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\obj\Debug\WatiN.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\obj\Debug\WatiN.exe
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\obj\Debug\WatiN.pdb
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\obj\Debug\WatiN.csprojResolveAssemblyReference.cache
