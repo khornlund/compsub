@@ -28,6 +28,8 @@ namespace CompSub
         {
             Logger.Log("..");
 
+            Settings.Instance.MakeNewIeInstanceVisible = false;
+
             IE ie = new IE();
             ie.GoTo(_url);
 

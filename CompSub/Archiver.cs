@@ -41,11 +41,11 @@ namespace CompSub
             return competitions.Except(processed);
         }
 
-        private void WriteToFile(FormFillerReport report, string fileName)
+        private void WriteToFile(FormFillerReport report, string filename)
         {
             Logger.Log("..");
 
-            XmlSerializer xs = new XmlSerializer(typeof(FormFillerReport));
+            XmlSerializer xs = new XmlSerializer(report.GetType());
             var xml = "";
 
             using (var sww = new StringWriter())
@@ -54,10 +54,16 @@ namespace CompSub
                 {
                     xs.Serialize(writer, report);
                     xml = sww.ToString();
+                    Logger.Log("Produced XML: " + xml);
                 }
             }
 
-            using (StreamWriter writer = new StreamWriter(fileName))
+            if (!File.Exists(filename))
+            {
+                File.Create(filename);
+            }
+
+            using (StreamWriter writer = File.AppendText(filename))
             {
                 writer.WriteLine(xml);
             }
