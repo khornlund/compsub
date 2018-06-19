@@ -1,17 +1,15 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Data.SqlTypes;
-using System.Globalization;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace WatiN
+namespace CompSub
 {
+    /// <summary>
+    /// This class is responsible for recording which competitions have been entered
+    /// </summary>
     public class Archiver
     {
         public string FileName { get; }

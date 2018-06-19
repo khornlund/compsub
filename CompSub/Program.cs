@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Threading;
-
-namespace WatiN
+﻿namespace CompSub
 {
     class Program
     {
@@ -11,8 +7,9 @@ namespace WatiN
             Logger.Log("Starting...");
 
             string ozBargain = "https://www.ozbargain.com.au/competition/all/feed";
-            string logFile = @"C:\Users\Karl\Documents\Visual Studio 2017\Projects\WatiN\WatiN\WatiN\data\archive.txt";
+            string logFile = @".\archive.txt";
 
+            // initialising manager in debug mode will cause it to not submit the forms it fills
             var manager = new Manager(ozBargain, logFile, debug: true);
 
             manager.Start();

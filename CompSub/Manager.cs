@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Threading;
 
-namespace WatiN
+namespace CompSub
 {
     public class Manager
     {
@@ -25,6 +25,8 @@ namespace WatiN
         public void Start()
         {
             Logger.Log("..");
+
+            //TODO: use a timer to loop this
 
             Thread t = new Thread(Work);
             t.SetApartmentState(ApartmentState.STA);

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel.Syndication;
 
-namespace WatiN
+namespace CompSub
 {
     /// <summary>
     /// This class encapsulates required information about a competition

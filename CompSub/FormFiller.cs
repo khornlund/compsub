@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net.Configuration;
 using System.Text.RegularExpressions;
 using WatiN.Core;
 
-namespace WatiN
+namespace CompSub
 {
+    /// <summary>
+    /// This class is repsonsible for filling out a web form
+    /// with relevant details and submitting the form
+    /// </summary>
     public class FormFiller
     {
         private readonly FormFillerReport.Builder _reportBuilder;

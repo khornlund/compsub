@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 using WatiN.Core;
 
-namespace WatiN
+namespace CompSub
 {
+    /// <summary>
+    /// This class contains information about competitions that have been entered
+    /// </summary>
     public class FormFillerReport : IReport
     {
         public Competition Competition { get; }
@@ -24,6 +27,9 @@ namespace WatiN
             Html = html;
         }
 
+        /// <summary>
+        /// Paramaterless ctor required for XML serialization
+        /// </summary>
         private FormFillerReport()
         {
         }

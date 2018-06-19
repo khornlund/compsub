@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel.Syndication;
-using System.Text;
 using System.Xml;
 
-namespace WatiN
+namespace CompSub
 {
+    /// <summary>
+    /// This class reads an XML feed and returns selected items
+    /// </summary>
     public class RssReader
     {
         private readonly string _url;
@@ -33,6 +35,7 @@ namespace WatiN
         {
             Logger.Log("..");
 
+            // Only return competitions of type 'Email' or 'Lucky Draw'
             return _feed.Items
                 .Where(i => i.Categories.Any(c => c.Name.Contains("Email") || c.Name.Contains("Lucky"))).Select(Competition.Parse);
         }
