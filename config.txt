@@ -1,0 +1,9 @@
+first.*name|initials|fname|first$|given.*name,<blank>
+last.*name|lname|surname|last$|secondname|family.*name,<blank>
+(\^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\),<blank>
+e.?mail,<blank>
+zip|postal|post.*code|pcode|^1z$,<blank>
+city|town,<blank>
+state|county|region|province,<blank>
+phone|mobile|contact.?number,<blank>
+country.*code|ccode|_cc,<blank>

@@ -37,26 +37,20 @@ namespace CompSub
 
         public IEnumerable<Competition> NewCompetitions(IEnumerable<Competition> competitions)
         {
-            IEnumerable<Competition> processed = Buffer.Select(f => f.Competition);
-            return competitions.Except(processed);
+            using (StreamReader sr = new StreamReader(FileName))
+            {
+                foreach (var competition in competitions)
+                {
+                    var processed = sr.ReadToEnd();
+                    if (!processed.Contains(competition.Url))
+                        yield return competition;
+                }
+            }
         }
 
         private void WriteToFile(FormFillerReport report, string filename)
         {
             Logger.Log("..");
-
-            XmlSerializer xs = new XmlSerializer(report.GetType());
-            var xml = "";
-
-            using (var sww = new StringWriter())
-            {
-                using (XmlWriter writer = XmlWriter.Create(sww))
-                {
-                    xs.Serialize(writer, report);
-                    xml = sww.ToString();
-                    Logger.Log("Produced XML: " + xml);
-                }
-            }
 
             if (!File.Exists(filename))
             {
@@ -65,7 +59,8 @@ namespace CompSub
 
             using (StreamWriter writer = File.AppendText(filename))
             {
-                writer.WriteLine(xml);
+                //writer.WriteLine(report.ToXml().OuterXml);
+                writer.WriteLine(report.Competition.Url);
             }
         }
 

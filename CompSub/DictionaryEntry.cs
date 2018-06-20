@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 using System.Text.RegularExpressions;
 
 namespace CompSub
@@ -8,22 +9,47 @@ namespace CompSub
         public Regex Regex { get; }
         public string Value { get; }
 
+        private static List<DictionaryEntry> _dictionary = null;
+
         public DictionaryEntry(string regex, string value)
         {
             Regex = new Regex(regex, RegexOptions.IgnoreCase);
             Value = value;
         }
 
+        private static IEnumerable<string> ReadConfig()
+        {
+            string filename = @"../../../config.txt";
+
+            using (StreamReader sr = new StreamReader(filename))
+            {
+                while (sr.Peek() >= 0 )
+                {
+                    yield return sr.ReadLine();
+                }
+            }
+        }
+
+        private static void InitialiseDictionary()
+        {
+            _dictionary = new List<DictionaryEntry>();
+
+            foreach (var line in ReadConfig())
+            {
+                Logger.Log("Adding: " + line);
+                string[] split = line.Split(',');
+                var entry = new DictionaryEntry(split[0], split[1]);
+                _dictionary.Add(entry);
+                Logger.Log($"Created regex={entry.Regex}, value={entry.Value}");
+            }
+        }
+
         public static List<DictionaryEntry> GetAll()
         {
-            List<DictionaryEntry> dictionary = new List<DictionaryEntry>();
+            if (_dictionary == null)
+                InitialiseDictionary();
 
-            dictionary.Add(new DictionaryEntry("first.*name|initials|fname|first$|given.*name", "Karl"));
-            dictionary.Add(new DictionaryEntry("last.*name|lname|surname|last$|secondname|family.*name", "Hornlund"));
-            dictionary.Add(new DictionaryEntry("(\"^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\")", "Karl Hornlund"));
-            dictionary.Add(new DictionaryEntry("e.?mail", "karlhornlund.ozb@gmail.com"));
-
-            return dictionary;
+            return _dictionary;
         }
     }
 }

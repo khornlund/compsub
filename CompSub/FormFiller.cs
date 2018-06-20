@@ -28,9 +28,9 @@ namespace CompSub
         {
             Logger.Log("..");
 
-            Settings.Instance.MakeNewIeInstanceVisible = false;
+            //Settings.Instance.MakeNewIeInstanceVisible = false;
 
-            IE ie = new IE();
+            IE ie = new IE(true);
             ie.GoTo(_url);
 
             _reportBuilder.Html(ie.Html);

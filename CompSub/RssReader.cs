@@ -35,9 +35,9 @@ namespace CompSub
         {
             Logger.Log("..");
 
-            // Only return competitions of type 'Email' or 'Lucky Draw'
+            // Only return competitions of type 'Email', 'Lucky Draw', or 'Website'
             return _feed.Items
-                .Where(i => i.Categories.Any(c => c.Name.Contains("Email") || c.Name.Contains("Lucky"))).Select(Competition.Parse);
+                .Where(i => i.Categories.Any(c => c.Name.Contains("Email") || c.Name.Contains("Lucky") || c.Name.Contains("Website"))).Select(Competition.Parse) ;
         }
     }
 

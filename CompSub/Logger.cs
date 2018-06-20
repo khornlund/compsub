@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using System.Runtime.CompilerServices;
 
 namespace CompSub
 {
@@ -10,8 +11,8 @@ namespace CompSub
 
         public static void Log(string m)
         {
-            String callingClass = new StackTrace().GetFrame(1).GetFileName();
-            String callingMethod = new StackTrace().GetFrame(1).GetMethod().Name;
+            string callingClass = new StackTrace().GetFrame(1).GetMethod().DeclaringType?.Name;
+            string callingMethod = new StackTrace().GetFrame(1).GetMethod().Name;
 
             string s = $"{callingClass}.{callingMethod}: {m}";
             Console.WriteLine(s);

@@ -42,7 +42,7 @@ namespace CompSub
             sb.Append("Forms: [" + string.Join(",", FormsSubmitted) + "]. ");
             foreach (var tuple in ElementsModified)
             {
-                sb.Append($"Modified: {tuple.Item1} <- {tuple.Item2}. ");
+                sb.AppendLine($"Modified: {tuple.Item1.ToString().Replace("\\r\\n", "")} <- {tuple.Item2}. ");
             }
 
             return sb.ToString();

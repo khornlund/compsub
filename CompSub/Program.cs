@@ -10,7 +10,7 @@
             string logFile = @"../../../output/archive.txt";
 
             // initialising manager in debug mode will cause it to not submit the forms it fills
-            var manager = new Manager(ozBargain, logFile, debug: true);
+            var manager = new Manager(ozBargain, logFile, debug: false);
 
             manager.Start();
             

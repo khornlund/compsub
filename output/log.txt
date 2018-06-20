@@ -1,0 +1,1190 @@
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field Firstname
+FormFiller.HandleTextField: HandleTextField: name=Firstname, id=Firstname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field Firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field Lastname
+FormFiller.HandleTextField: HandleTextField: name=Lastname, id=Lastname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field Lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Email, id=Email, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Postcode, id=Postcode, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleTextField: HandleTextField: name=BirthDate, id=BirthDate, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=tv-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=home, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=camera-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=cameras, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=speaker-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=speakers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_Smart_Devices__c, id=mobile-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=smart devices, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_PlayStation__c, id=playstation-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=playstation, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=news-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=news, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=offers-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=offers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=refurb-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=deals, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=comp-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=competitions, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=events-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=events, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=Source, id=Source, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription. Forms: []. 
+Archiver.WriteToFile: ..
+Manager.Work: Caught exception: The process cannot access the file 'C:\Users\Karl\Documents\Visual Studio 2017\Projects\compsub\output\archive.txt' because it is being used by another process.
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.HandleElementContainer: HandleElementContainer: name=search_key, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.Start: 
+Filling form name=competitionForm
+
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field firstname
+FormFiller.HandleTextField: HandleTextField: name=firstname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field lastname
+FormFiller.HandleTextField: HandleTextField: name=lastname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email_address
+FormFiller.HandleElementContainer: HandleElementContainer: name=email_address, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=subscriptionForm
+
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field fullname
+FormFiller.HandleTextField: HandleTextField: name=fullname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field fullname
+FormFiller.HandleTextField: Writing Karl Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field emailAddress
+FormFiller.HandleElementContainer: HandleElementContainer: name=emailAddress, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Creating an instance of the COM component with CLSID {0002DF01-0000-0000-C000-000000000046} from the IClassFactory failed due to the following error: 80004005 Unspecified error (Exception from HRESULT: 0x80004005 (E_FAIL)).
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field Firstname
+FormFiller.HandleTextField: HandleTextField: name=Firstname, id=Firstname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field Firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field Lastname
+FormFiller.HandleTextField: HandleTextField: name=Lastname, id=Lastname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field Lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Email, id=Email, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Postcode, id=Postcode, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleTextField: HandleTextField: name=BirthDate, id=BirthDate, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=tv-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=home, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=camera-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=cameras, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=speaker-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=speakers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_Smart_Devices__c, id=mobile-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=smart devices, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_PlayStation__c, id=playstation-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=playstation, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=news-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=news, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=offers-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=offers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=refurb-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=deals, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=comp-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=competitions, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=events-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=events, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=Source, id=Source, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription. Forms: []. 
+Archiver.WriteToFile: ..
+XmlConverter.ToXml: Competition element:<competition title="Win $400 Worth of Pet Products from The Pet Room" url="https://offers.thepetroom.us/grand-launch-contest/" published="2018-06-19T17:49:02"><categories category_0="Other Skills" category_1="Email Subscription" /></competition>
+XmlConverter.ToXml: Forms element:<forms />
+XmlConverter.ToXml: Modified element:<modified />
+Manager.LogReport: Archived: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription. Forms: []. 
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.HandleElementContainer: HandleElementContainer: name=search_key, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.Start: 
+Filling form name=competitionForm
+
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field firstname
+FormFiller.HandleTextField: HandleTextField: name=firstname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field lastname
+FormFiller.HandleTextField: HandleTextField: name=lastname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email_address
+FormFiller.HandleElementContainer: HandleElementContainer: name=email_address, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=subscriptionForm
+
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field fullname
+FormFiller.HandleTextField: HandleTextField: name=fullname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field fullname
+FormFiller.HandleTextField: Writing Karl Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field emailAddress
+FormFiller.HandleElementContainer: HandleElementContainer: name=emailAddress, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+Manager.Work: Caught exception: Timeout while Internet Explorer busy
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw. Forms: []. 
+Archiver.WriteToFile: ..
+XmlConverter.ToXml: Competition element:<competition title="Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS" url="https://gleam.io/ScPpI/apple-iphone-x-256gb" published="2018-06-19T15:24:30"><categories category_0="Lucky Draw" /></competition>
+XmlConverter.ToXml: Forms element:<forms />
+XmlConverter.ToXml: Modified element:<modified />
+Manager.LogReport: Archived: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw. Forms: []. 
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=s, id=, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.Start: 
+Filling form name=mshtml.HTMLInputElementClass
+
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleTextField: HandleTextField: name=NAME, id=mce-NAME, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAIL
+FormFiller.HandleElementContainer: HandleElementContainer: name=EMAIL, id=mce-EMAIL, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAILTYPE
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAILTYPE
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleTextField: HandleTextField: name=b_a9d74bfce08ba307bfa8b9c78_1b7a1d047d, id=, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://cloud.content.sonyanz.com/win_WFSP700N, Title=Win 1 of 3 Pairs of Sony Wireless Noise-Cancelling Headphones for Sports Worth $299.95 from Sony, Published=19-Jun-18 5:57:59 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field Firstname
+FormFiller.HandleTextField: HandleTextField: name=Firstname, id=Firstname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field Firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field Lastname
+FormFiller.HandleTextField: HandleTextField: name=Lastname, id=Lastname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field Lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Email, id=Email, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field Email
+FormFiller.HandleTextField: HandleTextField: name=Postcode, id=Postcode, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleTextField: HandleTextField: name=BirthDate, id=BirthDate, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=tv-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=home, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=camera-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=cameras, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=speaker-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=speakers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_Smart_Devices__c, id=mobile-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=smart devices, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=Interest_PlayStation__c, id=playstation-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=productUpdates, id=playstation, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Para
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Span
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Table
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableBody
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=news-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=news, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=offers-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=offers, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=refurb-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=deals, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=comp-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=competitions, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableRow
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=events-label, type=WatiN.Core.Label
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.TableCell
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=hearAbout, id=events, type=WatiN.Core.CheckBox
+FormFiller.HandleElementContainer: HandleElementContainer: Handling child: name=, id=, type=WatiN.Core.Label
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=Source, id=Source, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller..ctor: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription. Forms: []. 
+Archiver.WriteToFile: ..
+Manager.LogReport: Archived: URL=https://offers.thepetroom.us/grand-launch-contest/, Title=Win $400 Worth of Pet Products from The Pet Room, Published=19-Jun-18 5:49:02 PM +10:00, Categories=Other Skills,Email Subscription. Forms: []. 
+Manager.Work: Entering: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://roadshow.com.au/titles/movies/stx/2018/adrift, Title=Win 1 of 20 Adrift Prize Packs (Novel & DP) Worth $63.99 from Roadshow, Published=19-Jun-18 5:10:43 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.HandleElementContainer: HandleElementContainer: name=search_key, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.Start: 
+Filling form name=searchSuggestion
+
+FormFiller.Start: 
+Filling form name=competitionForm
+
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field firstname
+FormFiller.HandleTextField: HandleTextField: name=firstname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field firstname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field lastname
+FormFiller.HandleTextField: HandleTextField: name=lastname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field lastname
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email_address
+FormFiller.HandleElementContainer: HandleElementContainer: name=email_address, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=, id=, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=subscriptionForm
+
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field fullname
+FormFiller.HandleTextField: HandleTextField: name=fullname, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field fullname
+FormFiller.HandleTextField: Writing Karl Hornlund to field fullname
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field emailAddress
+FormFiller.HandleElementContainer: HandleElementContainer: name=emailAddress, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller..ctor: URL=http://melbournemarathon.com.au/win/, Title=Win a Garmin Forerunner 735XT GPS Running Watch Worth $599 from IMG [Except NSW], Published=19-Jun-18 4:20:27 PM +10:00, Categories=Lucky Draw,ACT,NT,QLD,SA,TAS,VIC,WA,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field input_1.3
+FormFiller.HandleTextField: HandleTextField: name=input_1.3, id=input_18_1_3, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field input_1.3
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field input_1.6
+FormFiller.HandleTextField: HandleTextField: name=input_1.6, id=input_18_1_6, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field input_1.6
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleTextField: HandleTextField: name=input_2, id=input_18_2, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=input_3, id=input_18_3, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=is_submit_18, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=gform_submit, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=gform_unique_id, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=state_18, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=gform_target_page_number_18, id=gform_target_page_number_18, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=gform_source_page_number_18, id=gform_source_page_number_18, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=gform_field_values, id=, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing Karl Hornlund to field cm-name
+FormFiller.HandleTextField: HandleTextField: name=cm-name, id=fieldName, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl Hornlund to field cm-name
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field cm-xiidtu-xiidtu
+FormFiller.HandleElementContainer: HandleElementContainer: name=cm-xiidtu-xiidtu, id=fieldEmail, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw. Forms: []. 
+Archiver.WriteToFile: ..
+Manager.LogReport: Archived: URL=https://gleam.io/ScPpI/apple-iphone-x-256gb, Title=Win an Apple iPhone X from EZ LIFE SLOT JACKPOTS, Published=19-Jun-18 3:24:30 PM +10:00, Categories=Lucky Draw. Forms: []. 
+Manager.Work: Entering: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller..ctor: URL=https://tonedeaf.com.au/win-years-supply-of-band-merch-from-24hundred/, Title=Win $1,200 Worth of 24Hundred Merchandise from Tone Deaf, Published=19-Jun-18 2:32:23 PM +10:00, Categories=Lucky Draw,Email Subscription
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=s, id=, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.Start: 
+Filling form name=mshtml.HTMLInputElementClass
+
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleTextField: HandleTextField: name=NAME, id=mce-NAME, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAIL
+FormFiller.HandleElementContainer: HandleElementContainer: name=EMAIL, id=mce-EMAIL, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAILTYPE
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field EMAILTYPE
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleTextField: HandleTextField: name=b_a9d74bfce08ba307bfa8b9c78_1b7a1d047d, id=, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleTextField: HandleTextField: name=email, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://www.gearbest.com/promotion-shoot-out-game-win-oneplus-6-special-2642.html, Title=Win OnePlus 6 4G Phablet & More from GearBest, Published=20-Jun-18 8:38:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.gearbest.com/promotion-shoot-out-game-win-oneplus-6-special-2642.html, Title=Win OnePlus 6 4G Phablet & More from GearBest, Published=20-Jun-18 8:38:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleTextField: HandleTextField: name=email, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://intrustsuperfund.com.au/ultimatemaroons/, Title=Win a Queensland Maroons Experience for 2 Worth $8,000 or 1 of 19 Prize Packs from Intrust Super [QLD], Published=20-Jun-18 6:01:54 PM +10:00, Categories=Lucky Draw,QLD
+FormFiller..ctor: URL=https://intrustsuperfund.com.au/ultimatemaroons/, Title=Win a Queensland Maroons Experience for 2 Worth $8,000 or 1 of 19 Prize Packs from Intrust Super [QLD], Published=20-Jun-18 6:01:54 PM +10:00, Categories=Lucky Draw,QLD
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7_version, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7_locale, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7_unit_tag, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7_container_post, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7cf_hidden_group_fields, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7cf_hidden_groups, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7cf_visible_groups, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=_wpcf7cf_options, id=, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field first-name
+FormFiller.HandleTextField: HandleTextField: name=first-name, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field first-name
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field last-name
+FormFiller.HandleTextField: HandleTextField: name=last-name, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field last-name
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleElementContainer: HandleElementContainer: name=email, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=phone, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=fund-other, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=venue, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=website, id=, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://www.fiveaa.com.au/win/enter-your-chance-win-hp-pavilion-x360-laptop-valued-988, Title=Win a HP Pavilion X360 Laptop Worth $988 from Festival City Broadcasters [SA], Published=20-Jun-18 6:01:52 PM +10:00, Categories=Lucky Draw,SA
+FormFiller..ctor: URL=https://www.fiveaa.com.au/win/enter-your-chance-win-hp-pavilion-x360-laptop-valued-988, Title=Win a HP Pavilion X360 Laptop Worth $988 from Festival City Broadcasters [SA], Published=20-Jun-18 6:01:52 PM +10:00, Categories=Lucky Draw,SA
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=query, id=nova_site_search_query, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field submitted[first_name]
+FormFiller.HandleTextField: HandleTextField: name=submitted[first_name], id=edit-submitted-first-name, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field submitted[first_name]
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field submitted[last_name]
+FormFiller.HandleTextField: HandleTextField: name=submitted[last_name], id=edit-submitted-last-name, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field submitted[last_name]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field submitted[email_address]
+FormFiller.HandleElementContainer: HandleElementContainer: name=submitted[email_address], id=edit-submitted-email-address, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleTextField: HandleTextField: name=submitted[phone_number], id=edit-submitted-phone-number, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=submitted[postcode], id=edit-submitted-postcode, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=details[sid], id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=details[page_num], id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=details[page_count], id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=details[finished], id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=form_build_id, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=form_id, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=url, id=edit-url, type=WatiN.Core.TextField
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://www.tinitrader.com.au/c/enter-to-win-the-snuzpod-3-in-1-bedside-crib-matching-geo-mono-fitted-sheet-pack, Title=Win a SnuzPod 3-in-1 Bedside Crib & Matching Geo Mono Fitted Sheet Pack Worth $445.20 from TiniTrader, Published=20-Jun-18 4:57:37 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://www.tinitrader.com.au/c/enter-to-win-the-snuzpod-3-in-1-bedside-crib-matching-geo-mono-fitted-sheet-pack, Title=Win a SnuzPod 3-in-1 Bedside Crib & Matching Geo Mono Fitted Sheet Pack Worth $445.20 from TiniTrader, Published=20-Jun-18 4:57:37 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=utf8, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=authenticity_token, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[competition_id], id=competitions_entry_competition_id, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field 
+FormFiller.HandleElement: HandleElement: Writing Karl to field competitions_entry[first_name]
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[first_name], id=competitions_entry_first_name, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Karl to field competitions_entry[first_name]
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field 
+FormFiller.HandleElement: HandleElement: Writing Hornlund to field competitions_entry[surname]
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[surname], id=competitions_entry_surname, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing Hornlund to field competitions_entry[surname]
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field competitions_entry[email]
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[email], id=competitions_entry_email, type=WatiN.Core.TextField
+FormFiller.HandleTextField: Writing karlhornlund.ozb@gmail.com to field competitions_entry[email]
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[postcode], id=competitions_entry_postcode, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[points], id=competitions_entry_points, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=competitions_entry[check_terms], id=, type=WatiN.Core.TextField
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=utf8, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=authenticity_token, id=, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=timestamp, id=timestamp, type=WatiN.Core.TextField
+FormFiller.HandleTextField: HandleTextField: name=spinner, id=spinner, type=WatiN.Core.TextField
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 217241cf48817094d01620f9fb28b510
+FormFiller.HandleElementContainer: HandleElementContainer: name=217241cf48817094d01620f9fb28b510, id=217241cf48817094d01620f9fb28b510, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field 
+FormFiller.HandleElement: HandleElement: Writing karlhornlund.ozb@gmail.com to field email
+FormFiller.HandleElementContainer: HandleElementContainer: name=email, id=email, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+FormFiller.HandleElementContainer: Found match with e.?mail!
+Manager.Work: Caught exception: Object reference not set to an instance of an object.
+Manager.Work: Entering: URL=https://www.facebook.com/EncoreTechnologySolutions/posts/898109827057795, Title=Win a Samsung 27" Curved LED Monitor Worth $399 from Encore Technology Solutions, Published=20-Jun-18 4:57:36 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.facebook.com/EncoreTechnologySolutions/posts/898109827057795, Title=Win a Samsung 27" Curved LED Monitor Worth $399 from Encore Technology Solutions, Published=20-Jun-18 4:57:36 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://www.facebook.com/EncoreTechnologySolutions/posts/898109827057795, Title=Win a Samsung 27" Curved LED Monitor Worth $399 from Encore Technology Solutions, Published=20-Jun-18 4:57:36 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share. Forms: []. 
+Archiver.WriteToFile: ..
+Manager.Work: Caught exception: The process cannot access the file 'C:\Users\Karl\Documents\Visual Studio 2017\Projects\compsub\output\archive.txt' because it is being used by another process.
+Manager.Work: Entering: URL=https://gleam.io/pTbv6/vrl-onward-invitational-rift-giveaway, Title=Win 1 of 2 Oculus Rift VR Headsets Worth $700 from ESL, Published=20-Jun-18 4:57:32 PM +10:00, Categories=Lucky Draw
+FormFiller..ctor: URL=https://gleam.io/pTbv6/vrl-onward-invitational-rift-giveaway, Title=Win 1 of 2 Oculus Rift VR Headsets Worth $700 from ESL, Published=20-Jun-18 4:57:32 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: Produced: URL=https://gleam.io/pTbv6/vrl-onward-invitational-rift-giveaway, Title=Win 1 of 2 Oculus Rift VR Headsets Worth $700 from ESL, Published=20-Jun-18 4:57:32 PM +10:00, Categories=Lucky Draw. Forms: []. 
+Archiver.WriteToFile: ..
+Manager.Work: Caught exception: The process cannot access the file 'C:\Users\Karl\Documents\Visual Studio 2017\Projects\compsub\output\archive.txt' because it is being used by another process.
+Program.Main: Returning...
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+DictionaryEntry.InitialiseDictionary: Adding: "first.*name|initials|fname|first$|given.*name","Karl"
+FormFiller..ctor: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+Manager.Work: Caught exception: Could not find FORM element tag matching criteria: Index = 0 at https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html
+Manager.Work: Entering: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+DictionaryEntry.InitialiseDictionary: Adding: "first.*name|initials|fname|first$|given.*name","Karl"
+DictionaryEntry.InitialiseDictionary: Adding: "last.*name|lname|surname|last$|secondname|family.*name","Hornlund"
+DictionaryEntry.InitialiseDictionary: Adding: "(\"^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\")","Karl Hornlund"
+DictionaryEntry.InitialiseDictionary: Adding: "e.?mail","karlhornlund.ozb@gmail.com"
+DictionaryEntry.InitialiseDictionary: Adding: "zip|postal|post.*code|pcode|^1z$","5006"
+DictionaryEntry.InitialiseDictionary: Adding: "city|town","North Adelaide"
+DictionaryEntry.InitialiseDictionary: Adding: "state|county|region|province","South Australia"
+DictionaryEntry.InitialiseDictionary: Adding: "phone|mobile|contact.?number","0413 564 684"
+DictionaryEntry.InitialiseDictionary: Adding: "country.*code|ccode|_cc","+61"
+FormFiller..ctor: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+DictionaryEntry.InitialiseDictionary: Adding: "first.*name|initials|fname|first$|given.*name","Karl"
+DictionaryEntry.InitialiseDictionary: Created regex="first.*name|initials|fname|first$|given.*name", value="Karl"
+DictionaryEntry.InitialiseDictionary: Adding: "last.*name|lname|surname|last$|secondname|family.*name","Hornlund"
+DictionaryEntry.InitialiseDictionary: Created regex="last.*name|lname|surname|last$|secondname|family.*name", value="Hornlund"
+DictionaryEntry.InitialiseDictionary: Adding: "(\"^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\")","Karl Hornlund"
+DictionaryEntry.InitialiseDictionary: Created regex="(\"^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\")", value="Karl Hornlund"
+DictionaryEntry.InitialiseDictionary: Adding: "e.?mail","karlhornlund.ozb@gmail.com"
+DictionaryEntry.InitialiseDictionary: Created regex="e.?mail", value="karlhornlund.ozb@gmail.com"
+DictionaryEntry.InitialiseDictionary: Adding: "zip|postal|post.*code|pcode|^1z$","5006"
+DictionaryEntry.InitialiseDictionary: Created regex="zip|postal|post.*code|pcode|^1z$", value="5006"
+DictionaryEntry.InitialiseDictionary: Adding: "city|town","North Adelaide"
+DictionaryEntry.InitialiseDictionary: Created regex="city|town", value="North Adelaide"
+DictionaryEntry.InitialiseDictionary: Adding: "state|county|region|province","South Australia"
+DictionaryEntry.InitialiseDictionary: Created regex="state|county|region|province", value="South Australia"
+DictionaryEntry.InitialiseDictionary: Adding: "phone|mobile|contact.?number","0413 564 684"
+DictionaryEntry.InitialiseDictionary: Created regex="phone|mobile|contact.?number", value="0413 564 684"
+DictionaryEntry.InitialiseDictionary: Adding: "country.*code|ccode|_cc","+61"
+DictionaryEntry.InitialiseDictionary: Created regex="country.*code|ccode|_cc", value="+61"
+FormFiller..ctor: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+Program.Main: Starting...
+Manager.Start: ..
+Manager.Work: ..
+RssReader..ctor: <init>: https://www.ozbargain.com.au/competition/all/feed
+RssReader.Initialise: Reading: https://www.ozbargain.com.au/competition/all/feed
+RssReader.GetItems: ..
+Manager.Work: Found: 7 competitions.
+Manager.Work: Entering: URL=https://babyology.com.au/competitions/next-big-thing-win-an-amazing-500-shopping-spree-with-next.html, Title=Win a $500 Next Shopping Credit (Clothes/Shoes/Homeware) from Babyology, Published=20-Jun-18 10:10:03 PM +10:00, Categories=Lucky Draw
+DictionaryEntry.InitialiseDictionary: Adding: first.*name|initials|fname|first$|given.*name,Karl
+DictionaryEntry.InitialiseDictionary: Created regex=first.*name|initials|fname|first$|given.*name, value=Karl
+DictionaryEntry.InitialiseDictionary: Adding: last.*name|lname|surname|last$|secondname|family.*name,Hornlund
+DictionaryEntry.InitialiseDictionary: Created regex=last.*name|lname|surname|last$|secondname|family.*name, value=Hornlund
+DictionaryEntry.InitialiseDictionary: Adding: (\^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\),Karl Hornlund
+Manager.Work: Caught exception: parsing "(\^name|full.?name|your.?name|customer.?name|bill.?name|ship.?name\)" - Not enough )'s.
+Manager.Work: Entering: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.gearbest.com/promotion-lucky-wheel-game-win-Alfawise-3d-printer-special-2641.html, Title=Win an Alfawise U20 3D Printer,Zeblaze THOR 4 Smartwatch,SCISHION AI ONE Android 8.1 TV Box & More from Gearbest, Published=20-Jun-18 8:45:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=email, id=, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
+Manager.Work: Entering: URL=https://www.gearbest.com/promotion-shoot-out-game-win-oneplus-6-special-2642.html, Title=Win OnePlus 6 4G Phablet & More from GearBest, Published=20-Jun-18 8:38:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller..ctor: URL=https://www.gearbest.com/promotion-shoot-out-game-win-oneplus-6-special-2642.html, Title=Win OnePlus 6 4G Phablet & More from GearBest, Published=20-Jun-18 8:38:57 PM +10:00, Categories=Lucky Draw,Like/Follow/Comment/Share
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+
+FormFiller.HandleTextField: HandleTextField: name=email, id=, type=WatiN.Core.TextField
+FormFiller.HandleElementContainer: HandleElementContainer: name=, id=, type=WatiN.Core.ElementContainer`1[WatiN.Core.Element]
+Manager.Work: Caught exception: Access is denied. (Exception from HRESULT: 0x80070005 (E_ACCESSDENIED))
+Manager.Work: Entering: URL=https://intrustsuperfund.com.au/ultimatemaroons/, Title=Win a Queensland Maroons Experience for 2 Worth $8,000 or 1 of 19 Prize Packs from Intrust Super [QLD], Published=20-Jun-18 6:01:54 PM +10:00, Categories=Lucky Draw,QLD
+FormFiller..ctor: URL=https://intrustsuperfund.com.au/ultimatemaroons/, Title=Win a Queensland Maroons Experience for 2 Worth $8,000 or 1 of 19 Prize Packs from Intrust Super [QLD], Published=20-Jun-18 6:01:54 PM +10:00, Categories=Lucky Draw,QLD
+FormFiller.Start: ..
+FormFiller.Start: 
+Filling form name=
+

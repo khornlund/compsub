@@ -1,2 +1,3 @@
-.\CompSub\bin\Debug\CompSub.exe
+cd .\CompSub\bin\Debug
+CompSub.exe
 pause

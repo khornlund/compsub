@@ -65,9 +65,9 @@ namespace CompSub
 
         public override string ToString()
         {
-            return $"Title={Title}, " +
+            return $"URL={Url}, " +
+                   $"Title={Title}, " +
                    $"Published={Published}, " +
-                   $"URL={Url}, " +
                    $"Categories={string.Join(",", Categories)}";
         }
     }
