@@ -7,6 +7,8 @@ I made use of a library called WatiN, which initially looked promising as a powe
 to access HTML elements - however, the lack of documentation became prohibitive.
 
 There are some promising alternatives in other languages, namely:
+
 	Beautiful Soup [python] : https://www.crummy.com/software/BeautifulSoup/
+	
 	Puppeteer [javascript] : https://github.com/GoogleChrome/puppeteer
 	
